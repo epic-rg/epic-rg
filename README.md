@@ -13,21 +13,6 @@
 
 ---
 
-<!-- BADGES -->
-<p align="center">
-  <!-- Basic badges -->
-  <img alt="GitHub followers" src="https://img.shields.io/github/followers/epic-rg?style=social" />
-  <img alt="GitHub stars" src="https://img.shields.io/github/stars/epic-rg?style=social" />
-  <img alt="Top Language" src="https://img.shields.io/github/languages/top/epic-rg?color=blue" />
-
-  <!-- Activity & stats -->
-  <br/>
-  <img alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=epic-rg&show_icons=true&theme=radical" width="49%" />
-  <img alt="GitHub Most Used Languages" src="https://github-readme-stats.vercel.app/api/top_languages/?username=epic-rg&layout=compact&theme=radical" width="49%" />
-</p>
-
----
-
 ## 🧠 About Me
 
 I’m a Full-Stack Developer shaping real products using the MERN stack — React, Node.js, Express & MongoDB.  
@@ -78,11 +63,5 @@ Beyond coding, I live the builder lifestyle — disciplined fitness, aesthetic c
 </p>
 
 ---
-
-## ⚡ Fun Animation
-
-<p align="center">
-  <img src="https://github.com/epic-rg/epic-rg/blob/main/animations/typing.gif" width="60%" />
-</p>
 
 *Thanks for visiting!* 👀  
