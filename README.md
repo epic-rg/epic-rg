@@ -4,14 +4,8 @@
 </h1>
 
 <p align="center">
-  <em>Full-Stack MERN Developer · Fitness & Creative Creator · Shipping Projects in Public</em>
+  <img src="https://raw.githubusercontent.com/epic-rg/epic-rg/main/readme_gif.gif" width="600px"/>
 </p>
-
-<p align="center">
-  <img src="https://github.com/epic-rg/epic-rg/blob/main/animations/rocket.gif" width="120px"/>
-</p>
-
----
 
 ## 🧠 About Me
 
