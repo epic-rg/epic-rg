@@ -1,6 +1,6 @@
 <!-- HEADER -->
 <h1 align="center">
-  Hi 👋, I'm Raghav (rago) 🚀
+  Hi, I'm Raghav 🚀
 </h1>
 
 <p align="center">
@@ -36,15 +36,6 @@ Beyond coding, I live the builder lifestyle — disciplined fitness, aesthetic c
 - Strength Training & Calisthenics
 - Aesthetic Physique & Health
 - Discipline-Driven Progress
-
----
-
-## 🔥 Projects You Should See
-
-| Project | Description | Link |
-|---------|-------------|------|
-| **Agency Task Manager** | MERN task system with RBAC & scoped APIs | https://rago-agency-task-manager.vercel.app |
-| **Agency Task GitHub Repo** | Source for fullstack task manager | https://github.com/epic-rg/rago-react-todo |
 
 ---
 
