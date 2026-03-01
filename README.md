@@ -73,7 +73,7 @@ Beyond coding, I live the builder lifestyle — disciplined fitness, aesthetic c
 
 <p align="center">
   <a href="https://linkedin.com/in/rago-dev"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" /></a>
-  <a href="https://twitter.com/therealdevrago"><img src="https://img.shields.io/badge/X-@epic_rg-1DA1F2?style=for-the-badge&logo=twitter" /></a>
+  <a href="https://twitter.com/therealdevrago"><img src="https://img.shields.io/badge/X-@therealdevrago-1DA1F2?style=for-the-badge&logo=twitter" /></a>
   <a href="https://instagram.com/pog_rammer"><img src="https://img.shields.io/badge/Instagram-Follow-E1306C?style=for-the-badge&logo=instagram" /></a>
 </p>
 
